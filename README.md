@@ -1,5 +1,6 @@
 CodTech-Task2
 Name: Sabri mishra Company: CODTECH IT SOLUTIONS Id:CT08DS5549 Domain: WEB DEVELOPMENT Duration: 4 WEEKS
+Mentor name: Muzammil Ahmed
 
 Project Overview Title: E-Commerce Platform
 
